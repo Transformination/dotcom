@@ -1,6 +1,7 @@
 +++
 bio = "CEO of Transformination"
 title = "Jonas Damgaard Nielsen"
+[[social]]
 
 +++
 title: Jonas Damgaard Nielsen
