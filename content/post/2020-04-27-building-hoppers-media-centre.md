@@ -6,7 +6,7 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 8
 authors:
-- Dennis Brotzky
+- Jonas Damgaard Nielsen
 draft: true
 
 ---
